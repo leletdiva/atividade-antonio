@@ -17,7 +17,7 @@ body {
 
 /* Estilo do título */
 h1 {
-  color: #2a9d8f; /* Verde mais suave */
+  color: #db5eb7; /* Verde mais suave */
   margin-bottom: 20px;
   font-size: 2.5rem;
   font-weight: bold;
@@ -26,7 +26,7 @@ h1 {
 /* Estilo dos parágrafos */
 p {
   font-size: 1.1rem;
-  color: #555;
+  color: #5f5959;
   margin-bottom: 20px;
 }
 
